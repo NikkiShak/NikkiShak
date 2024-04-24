@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Nikki Shakeraneh</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a computer science graduate, and I'm passionate about all things related to technology and software development.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm passionate about all things related to technology and software development.</h3>
+<h3 align="left">About Me:</h3>
+<h3> I recently graduated from Carleton university with a Bachelor's degree in Computer Science and a Minor in Mathematics. I am a dedicated Web Developer, and my background in mathematics enhances my problem-solving skills and attention to detail, allowing me to approach web development challenges with analytical precision.</h3>
 
 - 🌱 I’m currently learning **React**
 
