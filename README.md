@@ -1,11 +1,7 @@
-<h1 align="center">Hi, I'm Nikki Shakeraneh</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm passionate about both front-end and back-end web development.</h3>
+<h1 align="center">Hi, I'm Nikki</h1>
 <h3 align="left">About Me:</h3>
-<h3> I recently graduated from Carleton university with a Bachelor's degree in Computer Science and a Minor in Mathematics. I am a dedicated Web Developer, and my background in mathematics enhances my problem-solving skills and attention to detail, allowing me to approach web development challenges with analytical precision.</h3>
+<h3> I recently graduated from Carleton University with a Bachelor's degree in Computer Science and a Minor in Mathematics. I also got a college certificate in Cloud Development and Operations. I am a Software Developer, and I've recently started working on additional personal projects for fun. I'm currently working on a desktop application that pulls book data to determine what the most highly rated book of the year is. It's being built using WPF and C#.NET. </h3>
 <br>
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **nikkishakeraneh2222@gmail.com**
 
 <p align="left">
 </p>
